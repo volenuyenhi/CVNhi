@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Tư duy dịch vụ khách hàng",
+        "icon": "https://img.icons8.com/color/48/000000/customer-support.png"
+    },
+    {
+        "name": "Bán hàng chiến lược",
+        "icon": "https://img.icons8.com/color/48/000000/sales-performance.png"
+    },
+    {
+        "name": "Giao tiếp & Đàm phán",
+        "icon": "https://img.icons8.com/color/48/000000/conference-call.png"
+    },
+    {
+        "name": "Xử lý khiếu nại khách hàng",
+        "icon": "https://img.icons8.com/color/48/000000/complaint.png"
+    },
+    {
+        "name": "Quản lý thời gian & Công việc",
+        "icon": "https://img.icons8.com/color/48/000000/alarm-clock.png"
+    },
+    {
+        "name": "Làm việc nhóm chuyên nghiệp",
+        "icon": "https://img.icons8.com/color/48/000000/groups.png"
+    },
+    {
+        "name": "Trưng bày sản phẩm (Merchandising)",
+        "icon": "https://img.icons8.com/color/48/000000/shop.png"
+    },
+    {
+        "name": "Microsoft Office (MOS certified)",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-office2019.png"
+    },
+    {
+        "name": "Tiếng Anh (Giao tiếp cơ bản)",
+        "icon": "https://img.icons8.com/color/48/000000/usa.png"
+    },
+    {
+        "name": "Tiếng Trung (Giao tiếp cơ bản)",
+        "icon": "https://img.icons8.com/color/48/000000/china.png"
+    }
+]
